@@ -1,6 +1,8 @@
 bjunseo
 
-test
+# Leejunseo
 
+☪ C, C#, python
 
+🌐 Iot
 
