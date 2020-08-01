@@ -6,3 +6,5 @@ bjunseo
 
 🌐 Iot
 
+study embedded
+
