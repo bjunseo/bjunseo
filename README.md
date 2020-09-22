@@ -2,7 +2,7 @@ bjunseo
 
 # Leejunseo
 
-## language
+🛠 __language__
 - C 
 - C#
 - python
