@@ -2,9 +2,11 @@ bjunseo
 
 # Leejunseo
 
-☪ C, C#, python
+## language
+- C 
+- C#
+- python
 
-🌐 Iot
 
 
 
