@@ -4,6 +4,7 @@ bjunseo
 
 📕 __using language__
 - C 
+- C++
 - C#
 - python
 
@@ -17,4 +18,3 @@ bjunseo
 - arduino
 - Atmega128
 - stm32 NUCLEO
-
