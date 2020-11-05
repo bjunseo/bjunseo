@@ -2,16 +2,11 @@ bjunseo
 
 # Leejunseo
 
-📕 __using language__
+📕 __language__
 - C 
 - C++
 - C#
 - python
-
-📗 __using IDE__
-- visual studio
-- pycharm
-- vim
 
 📘 __Development board__
 - raspberryPi
